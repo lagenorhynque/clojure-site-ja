@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: clojure-site-ja 0.0.1\n"
-"POT-Creation-Date: 2016-10-21 09:53+0900\n"
+"POT-Creation-Date: 2016-11-30 08:33+0900\n"
 "PO-Revision-Date: 2016-06-27 08:47+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -85,7 +85,7 @@ msgstr ""
 #. type: delimited block -
 #: en/content/guides/spec.adoc:19
 #, no-wrap
-msgid "[org.clojure/clojure \"1.9.0-alpha13\"]\n"
+msgid "[org.clojure/clojure \"1.9.0-alpha14\"]\n"
 msgstr ""
 
 #. type: Plain text
@@ -1675,7 +1675,7 @@ msgid ""
 "   ::players [{::name \"Kenny Rogers\"\n"
 "               ::score 100\n"
 "               ::hand [[2 :banana]]}]})\n"
-"In: [::players 0 ::hand 0 1] val: :banana fails spec: ::card at: [::players ::hand 1] predicate: suit?\n"
+";; In: [::players 0 ::hand 0 1] val: :banana fails spec: ::card at: [::players ::hand 1] predicate: suit?\n"
 msgstr ""
 
 #. type: Plain text
