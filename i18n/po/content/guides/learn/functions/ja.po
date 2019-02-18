@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: clojure-site-ja 0.0.1\n"
 "POT-Creation-Date: 2018-04-02 07:15+0900\n"
-"PO-Revision-Date: 2019-02-16 22:52+0900\n"
+"PO-Revision-Date: 2019-02-18 15:06+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -193,7 +193,7 @@ msgid ""
 "arguments must occur at the end of the argument list. They will be collected in a sequence for use by the function."
 msgstr ""
 "関数は可変個の引数を定義することもできる――これは「可変長引数」関数として知られている。可変の引数は引数リストの末尾にな"
-"ければならない。この引数はシーケンスにまとめられて関数から使うことができる。"
+"ければならない。この引数はシーケンスにまとめられており、関数から使うことができる。"
 
 #. type: Plain text
 #: en/content/guides/learn/functions.adoc:71
